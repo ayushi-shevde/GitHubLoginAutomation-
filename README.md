@@ -25,13 +25,14 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 5. Run the test from `Runner.java` or using a Cucumber feature file
 
 ---
+
 ## Note
 1. Username and password on the Guru99 demo site change every 20 days.
 2. This framework automatically fetches the latest credentials directly from the webpage before logging in.
 3. No manual update of credentials is needed.
 4. So you always use the current valid credentials during test execution.
 
-
+___
 
 ## 📁 Folder Structure
 
@@ -42,7 +43,6 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 - `logs/` – log4j
 - `testoutput/` – Extent Report Listener
 
-
 ---
 
 ## 🚀 How to Run the Tests
@@ -50,13 +50,11 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 1. Clone the repository:
    git clone https://github.com/ayushi-shevde/GitHubLoginAutomation-.git
 2. Open the project in your preferred IDE (IntelliJ or Eclipse).
-
 3. Run the Cucumber test via the Runner class
-
 
 ---
 
 ## 👩‍💻 Author
 
-**Ayushi Shevde**  
+Ayushi Shevde
 📧 shevde.ayushi@gmail.com
