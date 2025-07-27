@@ -11,7 +11,6 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 - Java
 - Selenium WebDriver
 - Cucumber BDD
-- TestNG
 - Extent Reports
 - Git
 
@@ -21,7 +20,8 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 
 1. Clone the repo
 2. Import as a Maven project
-3. Run the test from `Runner.java` or using a Cucumber feature file
+3. I have created a automaton script for a Login and a Logout
+5. Run the test from `Runner.java` or using a Cucumber feature file
 
 ---
 
@@ -35,9 +35,18 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 
 ---
 
+## 🚀 How to Run the Tests
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ayushi-shevde/GitHubLoginAutomation-.git
+Open the project in your preferred IDE (IntelliJ or Eclipse).
+
+Run the Cucumber test via the Runner class
+
 ## 🔐 Note: Login Credentials
 
-> 🔄 **Username and password change every 20 days.**
+##Note: Username and password change every 20 days.
 
 To get the latest valid credentials:
 
