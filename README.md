@@ -28,7 +28,7 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 
 ## 📁 Folder Structure
 
-- `features/` – Cucumber .feature files
+- `features/` – login .feature files
 - `stepdefinitions/` – Step definitions
 - `pages/` – Page Object Model classes
 - `utilities/` – Utility classes (ConfigReader, Extent Reports, etc.)
