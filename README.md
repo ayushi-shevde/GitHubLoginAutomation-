@@ -43,23 +43,10 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ayushi-shevde/GitHubLoginAutomation-.git
-Open the project in your preferred IDE (IntelliJ or Eclipse).
+2. Open the project in your preferred IDE (IntelliJ or Eclipse).
 
-Run the Cucumber test via the Runner class
+3. Run the Cucumber test via the Runner class
 
-## 🔐 Note: Login Credentials
-
-##Note: Username and password change every 20 days.
-
-To get the latest valid credentials:
-
-1. Visit 👉 [https://www.demo.guru99.com/V4/index.php](https://www.demo.guru99.com/V4/index.php)
-2. Click on the link that says **"here"**
-3. Enter your email ID
-4. Login credentials (UserID & Password) will be shown on the same page.
-5. Use those credentials for login — they are valid for **20 days**
-
-📌 Repeat the same process after 20 days when the credentials expire.
 
 ---
 
