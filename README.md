@@ -18,8 +18,8 @@ This is a Selenium-based login and logout automation framework for the **Guru99 
 
 ## 🚀 How to Run
 
-1. Clone the repo
-2. Import as a Maven project
+1. Clone the repo - git clone https://github.com/ayushi-shevde/GitHubLoginAutomation-.git
+2. Import as a Maven project in your IDE (Eclipse/IntelliJ)
 3. You will find a project named Selenium Banking Project.
 4. I have created an automaton script for a Login and a Logout
 5. Run the test from `Runner.java` or using a Cucumber feature file
@@ -41,17 +41,8 @@ ___
 - `pages/` – Page Object Model classes
 - `utilities/` – Utility classes (ConfigReader, Extent Reports, etc.)
 - `logs/` – log4j
-- `testoutput/` – Extent Report Listener
-
----
-
-## 🚀 How to Run the Tests
-
-1. Clone the repository:
-   git clone https://github.com/ayushi-shevde/GitHubLoginAutomation-.git
-2. Open the project in your preferred IDE (IntelliJ or Eclipse).
-3. Run the Cucumber test via the Runner class
-
+- `testoutput/` – Extent Reports
+  
 ---
 
 ## 👩‍💻 Author
